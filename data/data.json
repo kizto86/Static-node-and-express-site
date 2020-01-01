@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random quotes generator",
+      "description": "A randomly selected quote is displayed after a set amount of time interval or each time the user clicks the show another quote button.The background color also changes randomly.",
+      "technologies": ["JavaScript"],
+      "live_link": "",
+      "github_link": "https://github.com/kizto86/Random-quote-generator",
+      "image_url": [""]
+    },
+
+    {
+      "id": 1,
+      "project_name": "List Pagination and Filtering",
+      "description": "",
+      "technologies": ["JavaScript"],
+      "live_link": "",
+      "github_link": "",
+      "image_url": ""
+    },
+    {
+      "id": 2,
+      "project_name": "Random quotes generator",
+      "description": "",
+      "technologies": "",
+      "live_link": "",
+      "github_link": "",
+      "image_url": ""
+    }
+  ]
+}
