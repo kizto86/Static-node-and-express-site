@@ -4,11 +4,8 @@ const express = require("express");
 //use the route constructor  to define a new router
 const router = express.Router();
 
-const { data } = require("../data/data.json");
-
-//defining an index route to server the home page
-router.get("/", (req, res) => {
-  res.render("index", { data });
+router.get("/:id", (req, res, next) => {
+  let { id } = req.params;
 });
 
 module.exports = router;

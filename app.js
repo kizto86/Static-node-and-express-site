@@ -6,10 +6,15 @@ app.use("/static", express.static("public"));
 //defining the view engine to render html
 app.set("view engine", "pug");
 
-const routes = require("./routes");
+//declaring the routes
+const aboutRoute = require("./routes/about");
+const indexRoute = require("./routes");
+const projectRoute = require("./routes/project");
 
-//creating a middleware with the routes variable
-app.use(routes);
+//making a middleware with the routes and specify the pathway
+app.use("/", indexRoute);
+app.use("/about", aboutRoute);
+app.use("/project", projectRoute);
 
 //error handler for page not found
 app.use((req, res, next) => {

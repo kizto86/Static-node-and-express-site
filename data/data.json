@@ -4,29 +4,72 @@
       "id": 0,
       "project_name": "Random quotes generator",
       "description": "A randomly selected quote is displayed after a set amount of time interval or each time the user clicks the show another quote button.The background color also changes randomly.",
-      "technologies": ["JavaScript"],
-      "live_link": "",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://kizto86.github.io/Random-quote-generator/",
       "github_link": "https://github.com/kizto86/Random-quote-generator",
-      "image_url": [""]
+      "image_url": [
+        "/static/images/randomQuote.png",
+        "/static/images/randomQuote2.png",
+        "/static/images/randomQuote3.png"
+      ]
     },
 
     {
       "id": 1,
       "project_name": "List Pagination and Filtering",
-      "description": "",
-      "technologies": ["JavaScript"],
-      "live_link": "",
-      "github_link": "",
-      "image_url": ""
+      "description": "Javascript  is used to paginate a page that contains list of  basic information about students data. On each page, information about 10 students are displayed and a navigation system -- a series of links at the bottom of the page -- to let users click through the other student entries, 10 at a time. The pagination solution is flexible to respond to lists of different lengths",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://kizto86.github.io/List-Pagination-and-Filtering/#",
+      "github_link": "https://github.com/kizto86/List-Pagination-and-Filtering",
+      "image_url": [
+        "/static/images/paginationAndFiltering.png",
+        "/static/images/paginationAndFiltering2.png",
+        "/static/images/paginationAndFiltering3.png",
+        "/static/images/paginationAndFiltering4.png"
+      ]
     },
     {
       "id": 2,
-      "project_name": "Random quotes generator",
-      "description": "",
-      "technologies": "",
-      "live_link": "",
-      "github_link": "",
-      "image_url": ""
+      "project_name": "Interactive Form Validation",
+      "description": "JavaScript and jQuery library is used to enhance an interactive registration form for a fictional conference by adding customized and conditional behavior, validate user input before submission and provide helpful error messages when the user enters invalid information into the form field",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+      "live_link": "https://kizto86.github.io/Interactive-form-validation/",
+      "github_link": "https://github.com/kizto86/Interactive-form-validation",
+      "image_url": [
+        "/static/images/formValidation.png",
+        "/static/images/formValidation2.png",
+        "/static/images/formValidation3.png",
+        "/static/images/formValidation4.png"
+      ]
+    },
+    {
+      "id": 3,
+      "project_name": "Game- Phrase hunter",
+      "description": "A browser based word guessing game app called Phrase Hunter.A random phrase is selected which a player tries to guess by clicking letters on an onscreen keyboard.Each time the player guesses a letter, the program compares the letter the player has chosen with the random phrase. If the letter is in the phrase, the gameboard displays the chosen letters on the screen.  A player continues to select letters until they guess the phrase and win, or make five incorrect guesses and lose. If the player completes the phrase before they run out of guesses, a winning screen appears. If the player guesses incorrectly five times, a losing screen appears",
+      "technologies": ["HTML", "CSS", "JavaScript", "OOP"],
+      "live_link": "https://kizto86.github.io/Game--Phrase-hunter/",
+      "github_link": "https://github.com/kizto86/Game--Phrase-hunter",
+      "image_url": [
+        "/static/images/phraseHunter.png",
+        "/static/images/phraseHunter2.png",
+        "/static/images/phraseHunter3.png",
+        "/static/images/phraseHunter4.png",
+        "/static/images/phraseHunter5.png"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "Public API Request",
+      "description": "Fetch API is used to fetch information about 12 random employees from a Random User Generator API",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Fetch API"],
+      "live_link": "https://kizto86.github.io/Awesome-Startup/",
+      "github_link": "https://github.com/kizto86/Awesome-Startup",
+      "image_url": [
+        "/static/images/employeeDirectory.png",
+        "/static/images/employeeDirectory2.png",
+        "/static/images/employeeDirectory3.png",
+        "/static/images/employeeDirectory4.png"
+      ]
     }
   ]
 }
