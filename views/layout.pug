@@ -5,7 +5,7 @@ html(class="no-js" lang="en" dir="ltr")
     meta(http-equiv='x-ua-compatible', content='ie=edge')
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
     title Portfolio Site
-    link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
+    link(href="https://fonts.googleapis.com/css?family=Nunito:300,400,400i,700,800&display=swap" rel="stylesheet")
     link(rel='stylesheet', href='/static/css/foundation.css')
     link(rel='stylesheet', href='/static/css/style.css')
   body
@@ -14,13 +14,12 @@ html(class="no-js" lang="en" dir="ltr")
         block sidebar
           br
           .cell.shrink
-            img.thumbnail(src='https://placehold.it/550x350')
+            img.thumbnail(src='/static/images/profilePic.jpg')
           .cell.auto
 
            
             h5 Kingsley Emeka
 
-            //- Add text here to describe who you are, what you do, and why you are so awesome.
             p.text-light
               | Am a Full Stack JavaScript Tech Degree student at Team treehouse.
 
@@ -32,7 +31,7 @@ html(class="no-js" lang="en" dir="ltr")
         .title-bar-left
           button.menu-icon(type='button', data-toggle='my-info')
 
-          //- Add your name here.  This is for the mobile screen sized version.
+         
           span.title-bar-title Kingsley Emeka 
       block content
         
