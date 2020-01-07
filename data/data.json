@@ -8,9 +8,9 @@
       "live_link": "https://kizto86.github.io/Random-quote-generator/",
       "github_link": "https://github.com/kizto86/Random-quote-generator",
       "image_url": [
-        "/static/images/randomQuote.png",
-        "/static/images/randomQuote2.png",
-        "/static/images/randomQuote3.png"
+        "static/images/randomQuote.png",
+        "static/images/randomQuote2.png",
+        "static/images/randomQuote3.png"
       ]
     },
 
@@ -22,10 +22,10 @@
       "live_link": "https://kizto86.github.io/List-Pagination-and-Filtering/#",
       "github_link": "https://github.com/kizto86/List-Pagination-and-Filtering",
       "image_url": [
-        "/static/images/paginationAndFiltering.png",
-        "/static/images/paginationAndFiltering2.png",
-        "/static/images/paginationAndFiltering3.png",
-        "/static/images/paginationAndFiltering4.png"
+        "static/images/paginationAndFiltering.png",
+        "static/images/paginationAndFiltering2.png",
+        "static/images/paginationAndFiltering3.png",
+        "static/images/paginationAndFiltering4.png"
       ]
     },
     {
@@ -36,10 +36,10 @@
       "live_link": "https://kizto86.github.io/Interactive-form-validation/",
       "github_link": "https://github.com/kizto86/Interactive-form-validation",
       "image_url": [
-        "/static/images/formValidation.png",
-        "/static/images/formValidation2.png",
-        "/static/images/formValidation3.png",
-        "/static/images/formValidation4.png"
+        "static/images/formValidation.png",
+        "static/images/formValidation2.png",
+        "static/images/formValidation3.png",
+        "static/images/formValidation4.png"
       ]
     },
     {
@@ -50,11 +50,11 @@
       "live_link": "https://kizto86.github.io/Game--Phrase-hunter/",
       "github_link": "https://github.com/kizto86/Game--Phrase-hunter",
       "image_url": [
-        "/static/images/phraseHunter.png",
-        "/static/images/phraseHunter2.png",
-        "/static/images/phraseHunter3.png",
-        "/static/images/phraseHunter4.png",
-        "/static/images/phraseHunter5.png"
+        "static/images/phraseHunter.png",
+        "static/images/phraseHunter2.png",
+        "static/images/phraseHunter3.png",
+        "static/images/phraseHunter4.png",
+        "static/images/phraseHunter5.png"
       ]
     },
     {
@@ -65,10 +65,10 @@
       "live_link": "https://kizto86.github.io/Awesome-Startup/",
       "github_link": "https://github.com/kizto86/Awesome-Startup",
       "image_url": [
-        "/static/images/employeeDirectory.png",
-        "/static/images/employeeDirectory2.png",
-        "/static/images/employeeDirectory3.png",
-        "/static/images/employeeDirectory4.png"
+        "static/images/employeeDirectory.png",
+        "static/images/employeeDirectory2.png",
+        "static/images/employeeDirectory3.png",
+        "static/images/employeeDirectory4.png"
       ]
     }
   ]

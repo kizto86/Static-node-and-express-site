@@ -8,13 +8,13 @@ app.set("view engine", "pug");
 
 //declaring the routes
 const aboutRoute = require("./routes/about");
-const indexRoute = require("./routes");
+const indexRoute = require("./routes/index");
 const projectRoute = require("./routes/project");
 
 //making a middleware with the routes and specify the pathway
 app.use("/", indexRoute);
 app.use("/about", aboutRoute);
-app.use("/project", projectRoute);
+app.use("/projects", projectRoute);
 
 //error handler for page not found
 app.use((req, res, next) => {
