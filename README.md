@@ -35,4 +35,4 @@ Nodemon is installed to automatically restarting the node application when file 
 npm install nodemon --save
 ```
 
-font family,background color,font size for the p tag and color property were changed to make the interface more appeal.
+font family,background color,font size for the p tag and color property were changed to make the interface more appealing.
