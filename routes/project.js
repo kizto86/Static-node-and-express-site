@@ -4,25 +4,13 @@ const { projects } = require("../data/data.json");
 
 router.get("/:id", (req, res, next) => {
   let { id } = req.params;
-  const projectName = projects[id].project_name;
+  const project = projects.find(project => project.id === id);
 
-  const {
-    technologies,
-    image_urls,
-    description,
-    github_link,
-    live_link
-  } = projects[id];
+  if (project === undefined) {
+    next();
+  }
 
-  const projectInfo = {
-    projectName,
-    technologies,
-    image_urls,
-    description,
-    github_link,
-    live_link
-  };
-  return res.render("project", { projectInfo });
+  return res.render("project", { project });
 });
 
 module.exports = router;
