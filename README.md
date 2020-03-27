@@ -14,7 +14,7 @@ In the command line, run:
 npm init
 ```
 
-to setup a package.json file
+To setup a package.json file.
 
 To install the packages run
 
