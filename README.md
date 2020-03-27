@@ -16,16 +16,16 @@ npm init
 
 to setup a package.json file
 
-install express using:
+To install the packages run
 
 ```
-npm install express --save
+ npm install
 ```
 
-install pug using:
+To start the app run
 
 ```
-npm install pug --save
+npm start
 ```
 
 Optional
