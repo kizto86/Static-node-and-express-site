@@ -1,8 +1,9 @@
 const express = require("express");
 const app = express();
 
+const path = require("path");
 //defining a static server to serve static pages
-app.use("/static", express.static("public"));
+app.use("/static", express.static(path.join(__dirname, "public")));
 //defining the view engine to render html
 app.set("view engine", "pug");
 
