@@ -5,8 +5,8 @@
       "project_name": "Random quote generator",
       "description": "Quotes are selected and displayed randomly after a set amount of time interval or each time the user clicks the show another quote button. The background colour also changes randomly.",
       "technologies": ["HTML", "CSS", "JavaScript"],
-      "live_link": "https://kizto86.github.io/Random-quote-generator/",
-      "github_link": "https://github.com/kizto86/Random-quote-generator",
+      "live_link": "https://kizto86.github.io/random-quote-generator/",
+      "github_link": "https://github.com/kizto86/random-quote-generator",
       "image_url": [
         "/static/images/randomQuote.PNG",
         "/static/images/randomQuote2.PNG",
@@ -45,8 +45,8 @@
       "project_name": "Game- Phrase hunter",
       "description": "Phrase Hunter is a browser-based word guess game. When the player starts the game, a random phrase is selected, the player tries to guess a letter in the phrase by clicking the letters on the onscreen keyboard. Each time the player guesses a letter, the program compares the letter the player has chosen with the random phrase. If the letter is in the phrase, the gameboard displays the chosen letters on the screen.The player continues to select letters until they guess the phrase and win, or make five incorrect guesses and lose. If the player completes the phrase before they run out of guesses, a winning screen appears. If the player guesses incorrectly five times, a losing screen appears.",
       "technologies": ["HTML", "CSS", "JavaScript", "OOP"],
-      "live_link": "https://kizto86.github.io/Game--Phrase-hunter/",
-      "github_link": "https://github.com/kizto86/Game--Phrase-hunter",
+      "live_link": " https://kizto86.github.io/phrase-hunter/",
+      "github_link": "https://github.com/kizto86/phrase-hunter",
       "image_url": [
         "/static/images/phraseHunter.PNG",
         "/static/images/phraseHunter2.PNG",
@@ -59,12 +59,25 @@
       "project_name": "Public API Request",
       "description": "The Fetch API Method is used to fetch information about 12 random employees from a Random User Generator API Endpoint",
       "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Fetch API"],
-      "live_link": "https://kizto86.github.io/Awesome-Startup/",
-      "github_link": "https://github.com/kizto86/Awesome-Startup",
+      "live_link": "https://kizto86.github.io/employee-directory/",
+      "github_link": "https://github.com/kizto86/employee-directory",
       "image_url": [
         "/static/images/employeeDirectory3.PNG",
         "/static/images/employeeDirectory2.PNG",
         "/static/images/employeeDirectory4.PNG"
+      ]
+    },
+    {
+      "id": "5",
+      "project_name": "Pokemon Gallery",
+      "description": "Pokemon Gallery is a React application that fetch Pokemon for the poke API. It renders the first 150 Pokemons. To view more information about each Pokemon click on the pokemon image. The Pokemons can be filtered by multiple type. ",
+      "technologies": ["React", "Bootstrap", "JavaScript", "JSX", "Axios"],
+      "live_link": "https://kizto86.github.io/pokemon_gallery/#/",
+      "github_link": "https://github.com/kizto86/pokemon_gallery",
+      "image_url": [
+        "/static/images/pokeDisplay.PNG",
+        "/static/images/pokeDetails.PNG",
+        "/static/images/pokeFilter.PNG"
       ]
     }
   ]
