@@ -1,4 +1,4 @@
-# Static Node.js and Express Personal Portfolio Site
+## Node js and Express Personal Portfolio Site
 
 This are some of the projects I built while completing the Team Treehouse Full Stack JavaScript Techdegree Program. Each project provided me with a platform to put into practice the new skills acquired and improved my problem solving skill and technique. This portfolio site is a project in itself.
 
