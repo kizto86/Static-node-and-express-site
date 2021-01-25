@@ -79,6 +79,33 @@
         "/static/images/pokeDetails.PNG",
         "/static/images/pokeFilter.PNG"
       ]
+    },
+    {
+      "id": "6",
+      "project_name": "React Gallery",
+      "description": "React Gallery is an image gallery app  that receives images through a public API based on different topics and displays it as routes using React router ",
+      "technologies": ["React", "JavaScript", "JSX", "Flickr API"],
+      "live_link": "https://react-image-gallery-applicatn.herokuapp.com/",
+      "github_link": "https://github.com/kizto86/React-gallery-app",
+      "image_url": [
+        "/static/images/reactDog.PNG",
+        "/static/images/reactAlthetic.PNG",
+        "/static/images/reactFood.PNG"
+      ]
+    },
+    {
+      "id": "7",
+      "project_name": "Questions and Answers MERN Stack App",
+      "description": " Questions and Answers app is a MERN stack app  that provides the functionality for users to ask questions and get answers.",
+      "technologies": ["MongoDB", "Express", "React", "Node js"],
+      "live_link": "https://obscure-inlet-42322.herokuapp.com/",
+      "github_link": "https://github.com/kizto86/MERN_questions-and-answers",
+      "image_url": [
+        "/static/images/createQuestionMERN.PNG",
+        "/static/images/createAnswerMERN.PNG",
+        "/static/images/questionsMERN.PNG",
+        "/static/images/questionAnswerMERN.PNG"
+      ]
     }
   ]
 }
