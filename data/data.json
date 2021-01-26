@@ -97,7 +97,7 @@
       "id": "7",
       "project_name": "Questions and Answers MERN Stack App",
       "description": " Questions and Answers app is a MERN stack app  that provides the functionality for users to ask questions and get answers.",
-      "technologies": ["MongoDB", "Express", "React", "Node js"],
+      "technologies": ["MongoDB", "Express", "React", "Node js", "RESTful API"],
       "live_link": "https://obscure-inlet-42322.herokuapp.com/",
       "github_link": "https://github.com/kizto86/MERN_questions-and-answers",
       "image_url": [
@@ -105,6 +105,23 @@
         "/static/images/createAnswerMERN.PNG",
         "/static/images/questionsMERN.PNG",
         "/static/images/questionAnswerMERN.PNG"
+      ]
+    },
+    {
+      "id": "8",
+      "project_name": "Course Manager Full-stack  App",
+      "description": " Course Manager is a Full Stack App that provides a way for users to administer a school database containing information about courses. The app supports basic CRUD operations and user authentication. Users can create a course, view course details, update and delete a course. Update and delete are only possible if the course belongs to the signed-in user",
+      "technologies": ["Express", "SQLite", "React", "Node js", "RESTful API"],
+      "live_link": "https://github.com/kizto86/Course-manager",
+      "github_link": "https://github.com/kizto86/Course-manager",
+      "image_url": [
+        "/static/images/signUpReact.PNG",
+        "/static/images/signInReact.PNG",
+        "/static/images/courseViewReact.PNG",
+        "/static/images/singleCourseReact.PNG",
+        "/static/images/createCourseReact.PNG",
+        "/static/images/createCourseValidationReact.PNG",
+        "/static/images/updateCourseReact.PNG"
       ]
     }
   ]
