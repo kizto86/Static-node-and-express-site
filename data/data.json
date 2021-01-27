@@ -70,7 +70,7 @@
     {
       "id": "5",
       "project_name": "Pokemon Gallery",
-      "description": "Pokemon Gallery is a React app that fetches Pokemon for the poke API. It renders Pokemons details. To view more information about each Pokemon click on the pokemon image. The Pokemons can be filtered by multiple type. ",
+      "description": "Pokemon Gallery is a React app that fetches Pokemon for the poke API. It renders the Pokemons details. To view more information about each Pokemon click on the pokemon image. The Pokemons can be filtered by multiple type. ",
       "technologies": ["React", "Bootstrap", "JavaScript", "JSX", "Axios"],
       "live_link": "https://kizto86.github.io/pokemon_gallery/#/",
       "github_link": "https://github.com/kizto86/pokemon_gallery",
