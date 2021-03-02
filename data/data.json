@@ -98,7 +98,7 @@
       "project_name": "Questions and Answers MERN Stack App",
       "description": " Questions and Answers app is a MERN stack app  that provides the functionality for users to ask questions and get answers.",
       "technologies": ["MongoDB", "Express", "React", "Node js", "RESTful API"],
-      "live_link": "https://obscure-inlet-42322.herokuapp.com/",
+      "live_link": "https://ihavequestions.herokuapp.com/",
       "github_link": "https://github.com/kizto86/MERN_questions-and-answers",
       "image_url": [
         "/static/images/createQuestionMERN.PNG",
