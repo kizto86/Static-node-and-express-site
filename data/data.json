@@ -59,8 +59,8 @@
       "project_name": "Public API Request",
       "description": "The Fetch API Method is used to fetch information about 12 random employees from a Random User Generator API Endpoint",
       "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Fetch API"],
-      "live_link": "https://kizto86.github.io/employee-directory/",
-      "github_link": "https://github.com/kizto86/employee-directory",
+      "live_link": "https://kizto86.github.io/Employee-app/",
+      "github_link": "https://github.com/kizto86/Employee-app",
       "image_url": [
         "/static/images/employeeDirectory3.PNG",
         "/static/images/employeeDirectory2.PNG",
